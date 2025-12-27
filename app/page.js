@@ -86,14 +86,14 @@ export default function Home() {
           <div
             style={{
               maxWidth: "500px",
-              maxHeight: "520px",
+              maxHeight: "660px",
               background: "rgba(0,0,0,0.5)",
               padding: "25px",
               borderRadius: "75px",
               fontFamily: "sans-serif",
             }}
           >
-            <h1>Shashikiran Nest - Men's PG</h1>
+            <h1>Elite Living Men's PG</h1>
 
             <p><b>
               Semi Furnished shared rooms for Bachelor men, Rooms are spacious having attached Toilets & Balconies, Common Kitchen, Living room & Dining area.
