@@ -134,7 +134,7 @@ export default function Home() {
 
               📍 <b>Address : </b>
               <a
-                href="https://maps.app.goo.gl/Hw1GqtRayyZRWfkK9"
+                href="https://maps.app.goo.gl/dyYYZX1Y3K8NDBEr9"
                 target="_blank"
                 style={{ color: "white" }}
               >
